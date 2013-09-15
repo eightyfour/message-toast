@@ -1,0 +1,30 @@
+{
+  "name": "message-toast",
+  "auth": "eightyfour",
+  "email": "eightyfour@thinkuseful.de",
+  "description": "Show a message as a toast",
+  "version": "0.0.1",
+  "browserify": "Toast.js",
+  "engines": {
+    "node": ">= v0.4.0"
+  },
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "main": "Toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "notification",
+    "toast",
+    "messagelog"
+  ],
+  "license": "MIT",
+  "readme": "---",
+  "_id": "message-toast@0.0.1",
+  "dist": {
+    "shasum": "d21c0052dae5c41b6c026fd15bb178df99c9d47e"
+  },
+  "_from": "message-toast"
+}
