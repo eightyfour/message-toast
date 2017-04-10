@@ -3,7 +3,7 @@
   "auth": "eightyfour",
   "email": "eightyfour@thinkuseful.de",
   "description": "Show a message as a toast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "browserify": "Toast.js",
   "engines": {
     "node": ">= v0.4.0"
